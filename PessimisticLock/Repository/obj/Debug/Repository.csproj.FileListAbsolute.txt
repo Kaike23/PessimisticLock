@@ -1,0 +1,11 @@
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\bin\Debug\Repository.dll
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\bin\Debug\Repository.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\bin\Debug\Infrastructure.dll
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\bin\Debug\Model.dll
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\bin\Debug\Infrastructure.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\bin\Debug\Model.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\obj\Debug\Repository.dll
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\obj\Debug\Repository.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\bin\Debug\Session.dll
+D:\GitHub\PessimisticLock\PessimisticLock\Repository\bin\Debug\Session.pdb

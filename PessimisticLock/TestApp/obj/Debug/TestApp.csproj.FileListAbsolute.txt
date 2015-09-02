@@ -1,0 +1,8 @@
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Data\TestDB.mdf
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Data\TestDB_log.ldf
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\TestApp.exe.config
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\TestApp.exe
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\TestApp.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\obj\Debug\TestApp.exe
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\obj\Debug\TestApp.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\GitHub\PessimisticLock\PessimisticLock\Infrastructure\bin\Debug\Infrastructure.dll
+D:\GitHub\PessimisticLock\PessimisticLock\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\GitHub\PessimisticLock\PessimisticLock\Infrastructure\obj\Debug\Infrastructure.dll
+D:\GitHub\PessimisticLock\PessimisticLock\Infrastructure\obj\Debug\Infrastructure.pdb
