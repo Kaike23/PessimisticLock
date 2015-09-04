@@ -26,8 +26,9 @@ namespace Repository.Mapping.SQL.Base
 
         public T Find(Guid id)
         {
-            var result = loadedMap[id];
-            if (result != null) return result;
+            T result;
+            if (loadedMap.TryGetValue(id, out result))
+                return result;
 
             try
             {
@@ -128,6 +129,7 @@ namespace Repository.Mapping.SQL.Base
         protected T Load(SqlDataReader reader)
         {
             if (!reader.HasRows) return default(T);
+            reader.Read();
             var id = reader.GetGuid(0);
             if (loadedMap.ContainsKey(id)) return loadedMap[id];
             var resultEntity = DoLoad(id, reader);

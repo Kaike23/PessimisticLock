@@ -17,6 +17,7 @@ namespace Session
             this.Name = name;
             this.map = new IdentityMap();
             this.DbInfo = new DbSessionInfo(connectionInfo);
+            this.LockManager = new LockManager();
         }
 
         #region ISession implementation
@@ -26,6 +27,8 @@ namespace Session
         public string Name { get; private set; }
 
         public IDbSessionInfo DbInfo { get; private set; }
+
+        public ILockManager LockManager { get; private set; }
 
         public IdentityMap GetIdentityMap()
         {

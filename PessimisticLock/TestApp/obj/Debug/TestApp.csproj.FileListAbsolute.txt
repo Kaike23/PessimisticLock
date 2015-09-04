@@ -6,3 +6,11 @@ D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\TestApp.pdb
 D:\GitHub\PessimisticLock\PessimisticLock\TestApp\obj\Debug\TestApp.exe
 D:\GitHub\PessimisticLock\PessimisticLock\TestApp\obj\Debug\TestApp.pdb
 D:\GitHub\PessimisticLock\PessimisticLock\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Infrastructure.dll
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Model.dll
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Repository.dll
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Session.dll
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Infrastructure.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Model.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Repository.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\TestApp\bin\Debug\Session.pdb

@@ -1,0 +1,9 @@
+D:\GitHub\PessimisticLock\PessimisticLock\LockManager\obj\Debug\LockManager.csprojResolveAssemblyReference.cache
+D:\GitHub\PessimisticLock\PessimisticLock\LockManager\bin\Debug\LockManager.dll
+D:\GitHub\PessimisticLock\PessimisticLock\LockManager\bin\Debug\LockManager.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\LockManager\bin\Debug\Infrastructure.dll
+D:\GitHub\PessimisticLock\PessimisticLock\LockManager\bin\Debug\Session.dll
+D:\GitHub\PessimisticLock\PessimisticLock\LockManager\bin\Debug\Infrastructure.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\LockManager\bin\Debug\Session.pdb
+D:\GitHub\PessimisticLock\PessimisticLock\LockManager\obj\Debug\LockManager.dll
+D:\GitHub\PessimisticLock\PessimisticLock\LockManager\obj\Debug\LockManager.pdb

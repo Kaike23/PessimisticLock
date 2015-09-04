@@ -42,6 +42,8 @@
     <Compile Include="Domain\EntityBase.cs" />
     <Compile Include="Domain\IEntity.cs" />
     <Compile Include="Identity\IdentityMap.cs" />
+    <Compile Include="Session\ILockManager.cs" />
+    <Compile Include="Session\LockType.cs" />
     <Compile Include="Mapping\IDataMapper.cs" />
     <Compile Include="Mapping\IStatementSource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -10,6 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            new PessimisticLockDemo().EditSameEntity();
         }
     }
 }

@@ -12,6 +12,7 @@ namespace Infrastructure.Session
         IDbSessionInfo DbInfo { get; }
         IdentityMap GetIdentityMap();
         void Close();
+        ILockManager LockManager { get; }
     }
 
     public interface IDbSessionInfo
