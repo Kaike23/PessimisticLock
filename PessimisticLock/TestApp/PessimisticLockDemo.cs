@@ -146,7 +146,7 @@ namespace TestApp
             user3.LoadCustomer(); // <-- User 3 reads after user2 commits
             user1.SaveCustomer();
 
-            user3.Entity.FirstName = "Alfonso U3 wins";
+            user3.EditCustomer("Alfonso U3 wins");
             user3.SaveCustomer();
 
             user1.ReleaseCustomer();
